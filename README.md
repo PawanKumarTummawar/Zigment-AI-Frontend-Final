@@ -1,7 +1,7 @@
 
 # Zigment AI Frontend
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). It serves as the frontend for the **Zigment AI** platform, developed using React.js. The app is designed for interacting with JSON data, featuring an intuitive interface for AI-driven services.
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). It serves as the frontend Technical Assessment for the **Zigment AI** , developed using React.js. The app is designed for interacting with JSON data, featuring an intuitive interface for AI-driven services.
 
 ## Setup Instructions
 
@@ -229,7 +229,5 @@ To learn React, check out the [React documentation](https://reactjs.org/).
 
 ---
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
